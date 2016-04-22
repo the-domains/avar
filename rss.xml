@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Avar Jätkuloome]]></title>
         <description><![CDATA[Avar Jätkuloome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 05:31:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 05:34:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/91809688</p>]]></description>
-            <link>undefinedhttpsvimeocom91809688/index.html</link>
+            <link>https://thegrid.ai/avar/httpsvimeocom91809688/index.html</link>
             <guid isPermaLink="false">7e6cd655-fcd8-44b5-b4e8-27d4d85b2726</guid>
-            <pubDate>Fri, 22 Apr 2016 05:30:32 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 05:34:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
