@@ -4,21 +4,21 @@
         <description><![CDATA[Avar Jätkuloome]]></description>
         <link>https://thegrid.ai/avar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 06:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 06:48:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a975e3e0-8c6e-4a44-bd7f-bde57586eef8.jpg">]]></description>
+            <link>https://thegrid.ai/avar/valge-ristik-loob-mulda-seob-ohust-lammastikku-meelitab-me/index.html</link>
+            <guid isPermaLink="false">2f4befdc-9087-40cc-a343-451fa41c6fe3</guid>
+            <pubDate>Fri, 22 Apr 2016 06:48:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/644eb17c-7fbb-4590-a35d-0c976c255fa4.jpg">]]></description>
             <link>https://thegrid.ai/avar/httpsvimeocom91809688/index.html</link>
             <guid isPermaLink="false">7e6cd655-fcd8-44b5-b4e8-27d4d85b2726</guid>
             <pubDate>Fri, 22 Apr 2016 06:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a975e3e0-8c6e-4a44-bd7f-bde57586eef8.jpg">]]></description>
-            <link>https://thegrid.ai/avar/valge-ristik-loob-mulda-seob-ohust-lammastikku-meelitab-me/index.html</link>
-            <guid isPermaLink="false">2f4befdc-9087-40cc-a343-451fa41c6fe3</guid>
-            <pubDate>Fri, 22 Apr 2016 06:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
