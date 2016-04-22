@@ -2,24 +2,26 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-22T05:13:24.119Z'
-dateModified: '2016-04-22T05:13:21.045Z'
+datePublished: '2016-04-22T06:39:27.178Z'
+dateModified: '2016-04-22T06:39:17.685Z'
 title: avasta võimalikkus avarda reaalsus
 author: []
+sourcePath: _posts/2016-04-22-avasta-voimalikkus-avarda-reaalsus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-22-avasta-voimalikkus-avarda-reaalsus.md
-published: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf397d4-5b98-43f7-b84e-8c25cb9f8f3a.jpg)
+
 # avasta võimalikkus avarda reaalsus
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51fcef2-96a1-47f7-915a-fabd91d746d0.jpg)
