@@ -1,7 +1,7 @@
 name: Avar
 favicon: null
-layout_spectrum: 0.4086021
-typography_spectrum: 0.7059064484201372
+layout_spectrum: 0.39337
+typography_spectrum: 0.44956
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#4f5756'
     - '#e5ca00'
     - '#5fba62'
-  brandStrength: 0.1875
+  brandStrength: 0.875
   lightness: 0.8125
   saturation: 0.875
   rhythmicContrast: 0.7969912
